@@ -1,0 +1,106 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"pourya created soccer ."
+		}, {
+			"sender":	"pourya",
+			"content":	"hello"
+		}, {
+			"sender":	"pourya",
+			"content":	"salam khubi"
+		}, {
+			"sender":	"pourya",
+			"content":	"bah bah"
+		}, {
+			"sender":	"sajjad",
+			"content":	"salam"
+		}, {
+			"sender":	"sajjad",
+			"content":	"chetori?"
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"sajjad",
+			"content":	"oomadam"
+		}, {
+			"sender":	"sajjad",
+			"content":	"khosh oomadam"
+		}, {
+			"sender":	"server",
+			"content":	"ali joined ."
+		}, {
+			"sender":	"server",
+			"content":	"parsa joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"parsa joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"sajjad joined ."
+		}, {
+			"sender":	"server",
+			"content":	"parsa joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"parsa joined ."
+		}, {
+			"sender":	"server",
+			"content":	"ali joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"ali joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"ali joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya joined ."
+		}, {
+			"sender":	"server",
+			"content":	"pourya left ."
+		}, {
+			"sender":	"server",
+			"content":	"ali joined ."
+		}, {
+			"sender":	"server",
+			"content":	"ali left ."
+		}],
+	"name":	"soccer"
+}
