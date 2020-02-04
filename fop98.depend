@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1580771161 source:d:\codes\fop98\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<winsock2.h>
+	<unistd.h>
+	<windows.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1423841002 d:\codes\fop98\cjson.h
+
+1576229370 source:d:\codes\fop98\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1423841090 source:d:\codes\fop98\cjson\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1423841002 d:\codes\fop98\cjson\cjson.h
+
+1423841090 d:\codes\fop98\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
